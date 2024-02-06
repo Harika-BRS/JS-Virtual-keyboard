@@ -1,6 +1,2 @@
 # Virtual Keyboard
-
-###### Purpose:
-    Virtual keyboard using JS
-
-#### Dear Students, Check out the live app [here](http://203.193.173.125/buildriseshine/javascript/virtual-keyboard/).
+# you can live [here](https://harika-brs.github.io/JS-Virtual-keyboard/)
